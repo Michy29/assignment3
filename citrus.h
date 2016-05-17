@@ -7,5 +7,5 @@ public:
   CitrusFruit(float ph) : ph(ph){}
   const char * getName();
   float getPh();
-}
+};
 #endif
